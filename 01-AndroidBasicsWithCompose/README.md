@@ -37,3 +37,5 @@ The Compose function:
 - NOT an adjective: **`Bright()`**
 - NOT an adverb: **`Outside()`**
 - Nouns MAY be prefixed by descriptive adjectives: **`RoundIcon()`**
+
+## Contents:
